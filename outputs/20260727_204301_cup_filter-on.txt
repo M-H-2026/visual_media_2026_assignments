@@ -1,0 +1,9 @@
+Image: cup.jpg
+Device: cpu
+Using filter: True
+Top-5 predictions:
+1: cup (41.50%)
+2: measuring cup (34.52%)
+3: coffee mug (3.75%)
+4: mixing bowl (2.11%)
+5: soup bowl (1.09%)

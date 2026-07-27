@@ -1,0 +1,9 @@
+Image: cup_light.jpg
+Device: cpu
+Using filter: True
+Top-5 predictions:
+1: iPod (16.83%)
+2: lighter (16.51%)
+3: cradle (5.59%)
+4: bassinet (3.80%)
+5: loupe (2.99%)

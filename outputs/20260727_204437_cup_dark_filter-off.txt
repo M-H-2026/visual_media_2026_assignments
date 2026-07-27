@@ -1,0 +1,9 @@
+Image: cup_dark.jpg
+Device: cpu
+Using filter: False
+Top-5 predictions:
+1: dial telephone (18.44%)
+2: toilet tissue (10.93%)
+3: switch (9.44%)
+4: washbasin (4.01%)
+5: spotlight (3.05%)

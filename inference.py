@@ -92,9 +92,9 @@ def process_image_by_using_filter(image_path: Path) -> torch.Tensor:
     image = image.unsqueeze(0)
 
     kernel = torch.tensor([
-        [-1.0, -1.0, -1.0],
-        [-1.0, 9.0, -1.0],
-        [-1.0, -1.0,  -1.0],
+        [-0.5, -0.5, -0.5],
+        [-0.5, 5.0, -0.5],
+        [-0.5, -0.5,  -0.5],
     ], dtype=torch.float32)
 
     # [3, 1, 3, 3] にする

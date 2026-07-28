@@ -1,9 +1,0 @@
-Image: cup_dark.jpg
-Device: cpu
-Using filter: True
-Top-5 predictions:
-1: shovel (57.22%)
-2: toilet tissue (10.69%)
-3: washbasin (1.16%)
-4: stingray (1.13%)
-5: hatchet (0.76%)

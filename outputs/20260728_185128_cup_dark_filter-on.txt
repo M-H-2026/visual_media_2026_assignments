@@ -1,0 +1,9 @@
+Image: cup_dark.jpg
+Device: cpu
+Using filter: True
+Top-5 predictions:
+1: shovel (42.32%)
+2: toilet tissue (25.88%)
+3: snowplow (1.41%)
+4: washbasin (1.16%)
+5: cornet (1.00%)

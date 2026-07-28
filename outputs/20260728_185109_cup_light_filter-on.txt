@@ -1,0 +1,9 @@
+Image: cup_light.jpg
+Device: cpu
+Using filter: True
+Top-5 predictions:
+1: iPod (37.33%)
+2: strainer (3.13%)
+3: cup (2.46%)
+4: iron (2.26%)
+5: switch (2.14%)
